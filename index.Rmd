@@ -1,0 +1,15 @@
+---
+title: "Título del libro"
+author: "Autores"
+site: bookdown::bookdown_site
+documentclass: book
+url: 'https://comunidadbioinfo.github.io/templado_bookdown/'
+github-repo: "comunidadbioinfo/templado_bookdown"
+output:
+  bookdown::gitbook: default
+  
+---
+
+# Prefacio {-}
+
+Descripción del prefacio
